@@ -1,0 +1,69 @@
+category,TJ_conversion,product,category_code,type,subtype
+animal waste,1,Biofuels and Waste,AW,Biofuels and Waste,Biofuels and Waste
+bagasse,7.72,Biofuels and Waste,BS,Biofuels and Waste,Biofuels and Waste
+biodiesel,36.8,Biofuels and Waste,BD,Biofuels and Waste,Biofuels and Waste
+biogases,1,Biofuels and Waste,BI,Biofuels and Waste,Biofuels and Waste
+biogasoline,26.8,Biofuels and Waste,AL,Biofuels and Waste,Biofuels and Waste
+black liquor,1,Biofuels and Waste,PU,Biofuels and Waste,Biofuels and Waste
+charcoal,29.5,Biofuels and Waste,CH,Biofuels and Waste,Biofuels and Waste
+fuelwood,9.14,Biofuels and Waste,FW,Biofuels and Waste,Biofuels and Waste
+industrial waste,1,Biofuels and Waste,IW,Biofuels and Waste,Biofuels and Waste
+municipal wastes,1,Biofuels and Waste,MW,Biofuels and Waste,Biofuels and Waste
+other liquid biofuels,27.4,Biofuels and Waste,OL,Biofuels and Waste,Biofuels and Waste
+other vegetal material and residues,1,Biofuels and Waste,VW,Biofuels and Waste,Biofuels and Waste
+anthracite,25.8,"Coal, Peat and Oil Shale",AT,Coal,Coal
+brown coal,14,"Coal, Peat and Oil Shale",LB,Coal,Coal
+brown coal briquettes,20.7,"Coal, Peat and Oil Shale",BB,Coal,Coal
+coal tar,28,"Coal, Peat and Oil Shale",CT,Coal,Coal
+coke oven coke,1,"Coal, Peat and Oil Shale",OK,Coal,Coal
+coking coal,28.2,"Coal, Peat and Oil Shale",CC,Coal,Coal
+gas coke,28.2,"Coal, Peat and Oil Shale",GK,Coal,Coal
+hard coal,25.8,"Coal, Peat and Oil Shale",CL,Coal,Coal
+lignite,14,"Coal, Peat and Oil Shale",LN,Coal,Coal
+oil shale oil sands,8.9,"Coal, Peat and Oil Shale",OS,Coal,Coal
+other bituminous coal,25.8,"Coal, Peat and Oil Shale",OB,Coal,Coal
+other coal products,20,"Coal, Peat and Oil Shale",CP,Coal,Coal
+patent fuel,20.7,"Coal, Peat and Oil Shale",BC,Coal,Coal
+peat,9.76,"Coal, Peat and Oil Shale",PT,Coal,Coal
+peat products,9.76,"Coal, Peat and Oil Shale",BP,Coal,Coal
+sub bituminous coal,14,"Coal, Peat and Oil Shale",SB,Coal,Coal
+direct use of geothermal heat,1,Electricity and Heat,DG,Electricity and Heat,"Geothermal, Direct Use"
+direct use of solar thermal heat,1,Electricity and Heat,DS,Electricity and Heat,"Solar Thermal, Direct Use"
+electricity net installed capacity of electric power plants,1,Electricity and Heat,EC,Electricity and Heat,Power Capacity
+heat,1,Electricity and Heat,ST,Electricity and Heat,Heat
+total electricity,3.6,Electricity and Heat,EL,Electricity and Heat,Electricity
+falling water,3.6,Electricity production processes,E-FW,"Primary Electricity, Renewable",Falling water
+geothermal,3.6,Electricity production processes,E-GE,"Primary Electricity, Renewable",Geothermal
+hydro,3.6,Electricity production processes,E-HY,"Primary Electricity, Renewable",Hydro
+solar electricity,3.6,Electricity production processes,E-SO,"Primary Electricity, Renewable",Solar
+tide wave and ocean electricity,3.6,Electricity production processes,E-TI,"Primary Electricity, Renewable",Wave
+wind electricity,3.6,Electricity production processes,E-WI,"Primary Electricity, Renewable",Wind
+nuclear electricity,3.6,Electricity production processes,E-NU,Nuclear Electricity,Nuclear
+thermal electricity,3.6,Electricity production processes,E-TH,Thermal Electricity,Thermal
+blast furnace gas,1,"Natural Gas, Manufactured Gas and Recovered Gas",BG,Natural Gas,Natural Gas
+gasworks gas,1,"Natural Gas, Manufactured Gas and Recovered Gas",GG,Natural Gas,Natural Gas
+natural gas including lng,1,"Natural Gas, Manufactured Gas and Recovered Gas",NG,Natural Gas,Natural Gas
+other recovered gases,1,"Natural Gas, Manufactured Gas and Recovered Gas",BO,Natural Gas,Natural Gas
+additives and oxygenates,30,Oil,AO,Oil,Oil
+aviation gasoline,44.3,Oil,AV,Oil,Oil
+bitumen,40.2,Oil,BT,Oil,Oil
+conventional crude oil,42.3,Oil,CR,Oil,Oil
+ethane,46.4,Oil,EA,Oil,Oil
+fuel oil,40.4,Oil,RF,Oil,Oil
+gas oil diesel oil,43,Oil,DL,Oil,Oil
+gasoline type jet fuel,44.3,Oil,GJ,Oil,Oil
+kerosene type jet fuel,44.1,Oil,JF,Oil,Oil
+liquified petroleum gas,47.3,Oil,LP,Oil,Oil
+lubricants,40.2,Oil,LU,Oil,Oil
+motor gasoline,44.3,Oil,MO,Oil,Oil
+naphtha,44.5,Oil,NP,Oil,Oil
+natural gas liquids,44.2,Oil,GL,Oil,Oil
+other hydrocarbons,36,Oil,OH,Oil,Oil
+other kerosene,43.8,Oil,KR,Oil,Oil
+other oil products n e c,40.2,Oil,PP,Oil,Oil
+paraffin waxes,40.2,Oil,PW,Oil,Oil
+petroleum coke,32.5,Oil,PK,Oil,Oil
+refinery feedstocks,43,Oil,FS,Oil,Oil
+refinery gas,49.5,Oil,RG,Oil,Oil
+total refinery output,0,Oil,TO,Oil,Oil
+white spirit and special boiling point industrial spirits,40.2,Oil,WS,Oil,Oil
